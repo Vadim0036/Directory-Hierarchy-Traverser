@@ -19,7 +19,7 @@ The program maintains a counter for each file type. For example, it could keep a
 Output:
 
 At the end of the traversal, the program prints the total count of each file type found during the traversal.
-Usage:
 
+Usage:
 Input: The program takes the path to a directory as input.
 Output: The program prints the counts of each file type it encountered in the directory hierarchy.
